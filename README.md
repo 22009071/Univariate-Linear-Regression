@@ -52,7 +52,7 @@ plt.show()
 
 
 ## Output
-![uni1](https://user-images.githubusercontent.com/118787261/214839925-0bdd9e06-e07d-40d1-a353-7a17386e5a7b.png)
+
 ![uni2](https://user-images.githubusercontent.com/118787261/214839937-b93ff567-2a67-43f4-89b5-6c9adc33a691.png)
 ![uni3](https://user-images.githubusercontent.com/118787261/214839955-a1dfb827-b19a-4d1e-8fa4-b5fa9703690d.png)
 
